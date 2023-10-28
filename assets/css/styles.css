@@ -533,19 +533,19 @@ img {
 }
 
 .skills__html {
-  width: 50%;
+  width: 90%;
 }
 
 .skills__css {
-  width: 50%;
+  width: 85%;
 }
 
 .skills__js {
-  width: 20%;
+  width: 50%;
 }
 
 .skills__react {
-  width: 1%;
+  width: 15%;
 }
 
 .skills__php {
